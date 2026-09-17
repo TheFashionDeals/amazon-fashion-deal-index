@@ -3,7 +3,7 @@
 [![Open Data](https://img.shields.io/badge/Data-Open%20Dataset-brightgreen)](https://thefashiondeals.com/reports)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update Frequency](https://img.shields.io/badge/Updates-Weekly%20(Automated)-blue)](https://thefashiondeals.com)
-[![Verified Deals](https://img.shields.io/badge/Active%20Deals-13373-orange)](https://thefashiondeals.com)
+[![Verified Deals](https://img.shields.io/badge/Active%20Deals-13449-orange)](https://thefashiondeals.com)
 [![MCP Ready](https://img.shields.io/badge/MCP-Compatible-purple)](https://thefashiondeals.com/api/social/mcp)
 
 Weekly, machine-audited datasets of verified Amazon US fashion price drops, liquidation clearance discounts, and category statistical benchmarks. Published automatically every Monday by **[TheFashionDeals.com](https://thefashiondeals.com)**.
@@ -18,11 +18,11 @@ Weekly, machine-audited datasets of verified Amazon US fashion price drops, liqu
 
 | Metric | Verified Value |
 | :--- | :--- |
-| **Active Monitored Deals** | **13373** |
+| **Active Monitored Deals** | **13449** |
 | **Market Average Discount** | **30.5%** |
 | **Deep Clearance (70%+ Off)** | **102 Deals** |
-| **Average Sale Price** | **$39.51** (vs $58.85 Retail Baseline) |
-| **Total Monitored Savings Pool** | **$255806.08** |
+| **Average Sale Price** | **$39.41** (vs $58.69 Retail Baseline) |
+| **Total Monitored Savings Pool** | **$256445.35** |
 
 ---
 
