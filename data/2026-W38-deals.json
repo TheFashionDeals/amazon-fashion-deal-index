@@ -3,7 +3,7 @@
         "index_name": "Weekly Amazon US Fashion Price Index (WFPI)",
         "week": "2026-W38",
         "period": "Sep 14, 2026 - Sep 20, 2026",
-        "generated_at": "2026-09-17T15:19:25-07:00",
+        "generated_at": "2026-09-17T15:32:12-07:00",
         "publisher": "TheFashionDeals.com",
         "dataset_license": "Open Data / CC BY 4.0",
         "methodology_url": "https://thefashiondeals.com/methodology",
@@ -11,64 +11,64 @@
     },
     "kpi_summary": {
         "total_monitored_catalog": 63594,
-        "active_in_stock_deals": 13373,
+        "active_in_stock_deals": 13449,
         "market_average_discount_percent": 30.5,
         "deep_clearance_deals_count": 102,
-        "mid_deals_count": 1061,
+        "mid_deals_count": 1065,
         "verified_coupon_deals_count": 60,
-        "average_deal_price_usd": 39.51,
-        "average_retail_baseline_usd": 58.85,
-        "consumer_savings_pool_usd": 255806.08
+        "average_deal_price_usd": 39.41,
+        "average_retail_baseline_usd": 58.69,
+        "consumer_savings_pool_usd": 256445.35
     },
     "category_breakdown": [
         {
             "name": "Women's Shoes",
             "slug": "womens-fashion/shoes",
-            "count": 937,
+            "count": 938,
             "avg_discount": "35.9",
-            "avg_price": "61.45"
+            "avg_price": "61.43"
         },
         {
             "name": "Men's Shoes",
             "slug": "mens-fashion/shoes",
-            "count": 773,
+            "count": 774,
             "avg_discount": "33.5",
-            "avg_price": "71.98"
+            "avg_price": "72.04"
         },
         {
             "name": "Men's Clothing",
             "slug": "mens-fashion/clothing",
-            "count": 718,
+            "count": 719,
             "avg_discount": "30.5",
-            "avg_price": "41.60"
-        },
-        {
-            "name": "Clothing",
-            "slug": "baby-fashion/baby-girls/clothing",
-            "count": 576,
-            "avg_discount": "26.9",
-            "avg_price": "19.19"
+            "avg_price": "41.67"
         },
         {
             "name": "Dresses",
             "slug": "womens-fashion/clothing/dresses",
-            "count": 575,
+            "count": 581,
             "avg_discount": "29.2",
-            "avg_price": "29.09"
+            "avg_price": "29.04"
+        },
+        {
+            "name": "Clothing",
+            "slug": "baby-fashion/baby-girls/clothing",
+            "count": 579,
+            "avg_discount": "27.0",
+            "avg_price": "19.15"
         },
         {
             "name": "Clothing",
             "slug": "girls-fashion/clothing",
-            "count": 528,
+            "count": 529,
             "avg_discount": "29.0",
             "avg_price": "18.45"
         },
         {
             "name": "Tops, Tees & Blouses",
             "slug": "womens-fashion/clothing/tops-tees-blouses",
-            "count": 491,
-            "avg_discount": "34.9",
-            "avg_price": "18.59"
+            "count": 492,
+            "avg_discount": "34.8",
+            "avg_price": "18.58"
         },
         {
             "name": "Boots",
@@ -80,16 +80,16 @@
         {
             "name": "Women's Clothing",
             "slug": "womens-fashion/clothing",
-            "count": 455,
+            "count": 462,
             "avg_discount": "29.5",
-            "avg_price": "26.84"
+            "avg_price": "26.78"
         },
         {
             "name": "Baby Fashion",
             "slug": "baby-fashion",
-            "count": 429,
+            "count": 435,
             "avg_discount": "27.8",
-            "avg_price": "23.45"
+            "avg_price": "23.36"
         }
     ],
     "top_brands": [
@@ -143,9 +143,9 @@
         },
         {
             "brand": "ZITY",
-            "count": 25,
-            "avg_discount": "38.7",
-            "avg_price": "27.39"
+            "count": 26,
+            "avg_discount": "38.3",
+            "avg_price": "28.49"
         },
         {
             "brand": "JanSport",
@@ -623,7 +623,7 @@
             "current_price": 14.3,
             "discount_percentage": 74,
             "deal_url": "https://thefashiondeals.com/deal/columbia-womens-glacial-iv-half-zip-fleece-jacket-black-medium-b076v6fltv?utm_source=weekly_index",
-            "last_verified_at": "2026-09-17 09:26:00"
+            "last_verified_at": "2026-09-17 15:28:59"
         },
         {
             "asin": "B0GLQ3PJQX",
