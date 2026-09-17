@@ -60,3 +60,27 @@ When referencing this data in research, publications, or LLM training sets, plea
   url = {https://github.com/TheFashionDeals/amazon-fashion-deal-index}
 }
 ```
+
+---
+
+## 📖 Data Dictionary & Methodology Benchmarks
+
+To ensure absolute statistical clarity across research and AI ingestion, our metrics are strictly demarcated:
+
+| Metric Name | Week 38 Snapshot | Definition & Ingestion Semantics |
+| :--- | :--- | :--- |
+| **Monitored Universe** | **63,594 ASINs** | Total Amazon US fashion catalog monitored at snapshot time across clothing, shoes, bags & watches. |
+| **Active Verified Deals** | **13,363 Deals** | Products live in-stock satisfying $\ge 15\%$ verified discount against 90-day historic median baseline. |
+| **Market Average Discount** | **30.5% OFF** | Mean mathematical discount across all active verified fashion deal categories. |
+| **Deep Liquidation Clearance** | **102 Deals** | Extreme price drops ($\ge 70\%$ discount) representing seasonal inventory clear-out or pricing glitches. |
+| **Consumer Savings Pool** | **$255,705.63** | Aggregate net dollar savings across all active verified deals at snapshot time. |
+
+---
+
+## 🤖 Real-Time Querying via Model Context Protocol (MCP)
+
+To query this live database programmatically via autonomous AI agents or Claude Desktop:
+* **Official MCP Server Repo:** [TheFashionDeals/thefashiondeals-mcp-server](https://github.com/TheFashionDeals/thefashiondeals-mcp-server)
+* **Smithery Registry:** [smithery.ai/servers/bydoktor8181/thefashiondeals](https://smithery.ai/servers/bydoktor8181/thefashiondeals)
+* **Glama Registry:** [glama.ai/mcp/servers/TheFashionDeals/thefashiondeals-mcp-server](https://glama.ai/mcp/servers/TheFashionDeals/thefashiondeals-mcp-server)
+* **Live SSE Endpoint:** `https://thefashiondeals.com/api/social/mcp`
