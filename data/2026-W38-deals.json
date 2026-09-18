@@ -3,7 +3,7 @@
         "index_name": "Weekly Amazon US Fashion Price Index (WFPI)",
         "week": "2026-W38",
         "period": "Sep 14, 2026 - Sep 20, 2026",
-        "generated_at": "2026-09-17T15:32:12-07:00",
+        "generated_at": "2026-09-17T17:01:45-07:00",
         "publisher": "TheFashionDeals.com",
         "dataset_license": "Open Data / CC BY 4.0",
         "methodology_url": "https://thefashiondeals.com/methodology",
@@ -11,85 +11,85 @@
     },
     "kpi_summary": {
         "total_monitored_catalog": 63594,
-        "active_in_stock_deals": 13449,
-        "market_average_discount_percent": 30.5,
+        "active_in_stock_deals": 13292,
+        "market_average_discount_percent": 30.6,
         "deep_clearance_deals_count": 102,
-        "mid_deals_count": 1065,
+        "mid_deals_count": 1058,
         "verified_coupon_deals_count": 60,
-        "average_deal_price_usd": 39.41,
-        "average_retail_baseline_usd": 58.69,
-        "consumer_savings_pool_usd": 256445.35
+        "average_deal_price_usd": 39.64,
+        "average_retail_baseline_usd": 59.07,
+        "consumer_savings_pool_usd": 255537.6
     },
     "category_breakdown": [
         {
             "name": "Women's Shoes",
             "slug": "womens-fashion/shoes",
-            "count": 938,
+            "count": 936,
             "avg_discount": "35.9",
-            "avg_price": "61.43"
+            "avg_price": "61.46"
         },
         {
             "name": "Men's Shoes",
             "slug": "mens-fashion/shoes",
-            "count": 774,
+            "count": 777,
             "avg_discount": "33.5",
-            "avg_price": "72.04"
+            "avg_price": "72.09"
         },
         {
             "name": "Men's Clothing",
             "slug": "mens-fashion/clothing",
-            "count": 719,
-            "avg_discount": "30.5",
-            "avg_price": "41.67"
+            "count": 717,
+            "avg_discount": "30.6",
+            "avg_price": "41.47"
         },
         {
             "name": "Dresses",
             "slug": "womens-fashion/clothing/dresses",
-            "count": 581,
+            "count": 576,
             "avg_discount": "29.2",
-            "avg_price": "29.04"
+            "avg_price": "29.05"
         },
         {
             "name": "Clothing",
             "slug": "baby-fashion/baby-girls/clothing",
-            "count": 579,
+            "count": 573,
             "avg_discount": "27.0",
-            "avg_price": "19.15"
+            "avg_price": "19.18"
         },
         {
             "name": "Clothing",
             "slug": "girls-fashion/clothing",
-            "count": 529,
-            "avg_discount": "29.0",
-            "avg_price": "18.45"
+            "count": 523,
+            "avg_discount": "28.9",
+            "avg_price": "18.52"
         },
         {
             "name": "Tops, Tees & Blouses",
             "slug": "womens-fashion/clothing/tops-tees-blouses",
-            "count": 492,
-            "avg_discount": "34.8",
-            "avg_price": "18.58"
+            "count": 491,
+            "avg_discount": "34.9",
+            "avg_price": "18.62"
         },
         {
             "name": "Boots",
             "slug": "womens-fashion/shoes/boots",
-            "count": 485,
-            "avg_discount": "35.0",
-            "avg_price": "62.98"
+            "count": 482,
+            "avg_discount": "35.1",
+            "avg_price": "63.11"
         },
         {
             "name": "Women's Clothing",
             "slug": "womens-fashion/clothing",
-            "count": 462,
+            "count": 455,
             "avg_discount": "29.5",
-            "avg_price": "26.78"
+            "avg_price": "27.00"
         },
         {
             "name": "Baby Fashion",
             "slug": "baby-fashion",
-            "count": 435,
+            "count": 428,
             "avg_discount": "27.8",
-            "avg_price": "23.36"
+            "avg_price": "23.52"
         }
     ],
     "top_brands": [
@@ -133,7 +133,7 @@
             "brand": "Steve Madden",
             "count": 77,
             "avg_discount": "39.2",
-            "avg_price": "70.12"
+            "avg_price": "70.15"
         },
         {
             "brand": "Clarks",
@@ -143,15 +143,15 @@
         },
         {
             "brand": "ZITY",
-            "count": 26,
-            "avg_discount": "38.3",
-            "avg_price": "28.49"
+            "count": 25,
+            "avg_discount": "38.7",
+            "avg_price": "27.39"
         },
         {
-            "brand": "JanSport",
-            "count": 25,
-            "avg_discount": "38.0",
-            "avg_price": "37.43"
+            "brand": "Cole Haan",
+            "count": 162,
+            "avg_discount": "37.3",
+            "avg_price": "96.71"
         }
     ],
     "top_clearance_deals": [
@@ -473,7 +473,7 @@
             "current_price": 6.99,
             "discount_percentage": 77,
             "deal_url": "https://thefashiondeals.com/deal/incerun-mens-swim-trunks-with-compression-liner-quick-dry-bathing-suit-waterproof-2-in-1-swimming-beach-board-shorts-swi-b0fx8shkmq?utm_source=weekly_index",
-            "last_verified_at": "2026-09-17 09:56:22"
+            "last_verified_at": "2026-09-17 16:01:51"
         },
         {
             "asin": "B0F1DSHYQG",
@@ -493,7 +493,7 @@
             "current_price": 6.99,
             "discount_percentage": 77,
             "deal_url": "https://thefashiondeals.com/deal/incerun-mens-swim-trunks-with-compression-liner-quick-dry-bathing-suit-waterproof-2-in-1-swimming-beach-board-shorts-swi-b0fx8pcwq4?utm_source=weekly_index",
-            "last_verified_at": "2026-09-17 09:56:29"
+            "last_verified_at": "2026-09-17 16:01:58"
         },
         {
             "asin": "B09JBC4SZB",
@@ -503,7 +503,7 @@
             "current_price": 79.88,
             "discount_percentage": 76,
             "deal_url": "https://thefashiondeals.com/deal/samsung-galaxy-watch-4-classic-42mm-smartwatch-with-ecg-monitor-tracker-for-health-fitness-running-sleep-cycles-gps-fall-b09jbc4szb?utm_source=weekly_index",
-            "last_verified_at": "2026-09-17 10:01:13"
+            "last_verified_at": "2026-09-17 16:06:41"
         },
         {
             "asin": "B0G92CJRQS",
@@ -573,7 +573,7 @@
             "current_price": 21.24,
             "discount_percentage": 75,
             "deal_url": "https://thefashiondeals.com/deal/reebok-classic-leather-sneakers-for-men-footwear-white-footwear-white-pure-grey3-3-5-b0971kf923?utm_source=weekly_index",
-            "last_verified_at": "2026-09-17 10:29:13"
+            "last_verified_at": "2026-09-17 16:35:53"
         },
         {
             "asin": "B0G33G2SPY",
@@ -633,7 +633,7 @@
             "current_price": 4.99,
             "discount_percentage": 74,
             "deal_url": "https://thefashiondeals.com/deal/oakgarden-girls-gingham-wide-leg-pants-orange-pink-13-14-years-b0glq3pjqx?utm_source=weekly_index",
-            "last_verified_at": "2026-09-17 10:01:12"
+            "last_verified_at": "2026-09-17 16:06:40"
         },
         {
             "asin": "B0C4V1LBD1",
