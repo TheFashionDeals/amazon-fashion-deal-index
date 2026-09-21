@@ -1,0 +1,659 @@
+{
+    "meta": {
+        "index_name": "Weekly Amazon US Fashion Price Index (WFPI)",
+        "week": "2026-W39",
+        "period": "Sep 21, 2026 - Sep 27, 2026",
+        "generated_at": "2026-09-21T04:00:04-07:00",
+        "publisher": "TheFashionDeals.com",
+        "dataset_license": "Open Data / CC BY 4.0",
+        "methodology_url": "https://thefashiondeals.com/methodology",
+        "report_url": "https://thefashiondeals.com/reports/weekly-deal-index-2026-w39"
+    },
+    "kpi_summary": {
+        "total_monitored_catalog": 64265,
+        "active_in_stock_deals": 12473,
+        "market_average_discount_percent": 31.4,
+        "deep_clearance_deals_count": 203,
+        "mid_deals_count": 1216,
+        "verified_coupon_deals_count": 75,
+        "average_deal_price_usd": 38.32,
+        "average_retail_baseline_usd": 57.37,
+        "consumer_savings_pool_usd": 230228.35
+    },
+    "category_breakdown": [
+        {
+            "name": "Women's Shoes",
+            "slug": "womens-fashion/shoes",
+            "count": 841,
+            "avg_discount": "35.1",
+            "avg_price": "62.36"
+        },
+        {
+            "name": "Men's Shoes",
+            "slug": "mens-fashion/shoes",
+            "count": 705,
+            "avg_discount": "33.0",
+            "avg_price": "71.54"
+        },
+        {
+            "name": "Men's Clothing",
+            "slug": "mens-fashion/clothing",
+            "count": 691,
+            "avg_discount": "31.3",
+            "avg_price": "39.68"
+        },
+        {
+            "name": "Dresses",
+            "slug": "womens-fashion/clothing/dresses",
+            "count": 595,
+            "avg_discount": "32.1",
+            "avg_price": "28.04"
+        },
+        {
+            "name": "Tops, Tees & Blouses",
+            "slug": "womens-fashion/clothing/tops-tees-blouses",
+            "count": 558,
+            "avg_discount": "39.7",
+            "avg_price": "16.62"
+        },
+        {
+            "name": "Clothing",
+            "slug": "baby-fashion/baby-girls/clothing",
+            "count": 544,
+            "avg_discount": "28.1",
+            "avg_price": "18.04"
+        },
+        {
+            "name": "Clothing",
+            "slug": "girls-fashion/clothing",
+            "count": 484,
+            "avg_discount": "30.5",
+            "avg_price": "17.26"
+        },
+        {
+            "name": "Women's Clothing",
+            "slug": "womens-fashion/clothing",
+            "count": 422,
+            "avg_discount": "29.9",
+            "avg_price": "25.99"
+        },
+        {
+            "name": "Boots",
+            "slug": "womens-fashion/shoes/boots",
+            "count": 415,
+            "avg_discount": "33.2",
+            "avg_price": "61.68"
+        },
+        {
+            "name": "Baby Fashion",
+            "slug": "baby-fashion",
+            "count": 386,
+            "avg_discount": "29.0",
+            "avg_price": "23.14"
+        }
+    ],
+    "top_brands": [
+        {
+            "brand": "OLEVS",
+            "count": 28,
+            "avg_discount": "74.6",
+            "avg_price": "50.25"
+        },
+        {
+            "brand": "Jessica Simpson",
+            "count": 31,
+            "avg_discount": "54.4",
+            "avg_price": "49.06"
+        },
+        {
+            "brand": "Vince Camuto",
+            "count": 29,
+            "avg_discount": "51.6",
+            "avg_price": "70.03"
+        },
+        {
+            "brand": "HonestBaby",
+            "count": 25,
+            "avg_discount": "43.0",
+            "avg_price": "23.43"
+        },
+        {
+            "brand": "Vince",
+            "count": 34,
+            "avg_discount": "41.5",
+            "avg_price": "188.00"
+        },
+        {
+            "brand": "SUUKSESS",
+            "count": 39,
+            "avg_discount": "39.9",
+            "avg_price": "34.55"
+        },
+        {
+            "brand": "Steve Madden",
+            "count": 68,
+            "avg_discount": "39.6",
+            "avg_price": "69.25"
+        },
+        {
+            "brand": "EVALESS",
+            "count": 25,
+            "avg_discount": "38.3",
+            "avg_price": "27.73"
+        },
+        {
+            "brand": "JMIERR",
+            "count": 67,
+            "avg_discount": "38.1",
+            "avg_price": "24.11"
+        },
+        {
+            "brand": "Clarks",
+            "count": 329,
+            "avg_discount": "37.9",
+            "avg_price": "59.23"
+        }
+    ],
+    "top_clearance_deals": [
+        {
+            "asin": "B0G4NJY979",
+            "title": "Steve Madden Womens X-Back Ring Front Swim Bralette Top, Chloette Orchid, Medium",
+            "brand": "Steve Madden",
+            "original_price": 66,
+            "current_price": 6.75,
+            "discount_percentage": 90,
+            "deal_url": "https://thefashiondeals.com/deal/steve-madden-womens-x-back-ring-front-swim-bralette-top-chloette-orchid-medium-b0g4njy979?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:28:49"
+        },
+        {
+            "asin": "B0G4V25PH9",
+            "title": "100-Pack Black Frame One-Lens Sunglasses (60 Black/Grey,20 Black/Silvery,20 Black/Pink) Wholesale Bulk Party",
+            "brand": "ENSARJOE",
+            "original_price": 99,
+            "current_price": 9.99,
+            "discount_percentage": 90,
+            "deal_url": "https://thefashiondeals.com/deal/100-pack-black-frame-one-lens-sunglasses-60-blackgrey20-blacksilvery20-blackpink-wholesale-bulk-party-b0g4v25ph9?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:44"
+        },
+        {
+            "asin": "B07F1SK4DJ",
+            "title": "OLEVS Men's Black Leather Watch – Ultra‑Thin 6.5mm Minimalist Dress & Casual Waterproof Date Watch",
+            "brand": "OLEVS",
+            "original_price": 328,
+            "current_price": 33.77,
+            "discount_percentage": 90,
+            "deal_url": "https://thefashiondeals.com/deal/olevs-men-leather-watches-black-ultra-thin-65mm-minimalist-dress-fashion-simple-casual-waterproof-date-watch-for-men-b07f1sk4dj?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:45"
+        },
+        {
+            "asin": "B0GST6SF52",
+            "title": "OLEVS Automatic Watch for Men Mechanical Self Winding Watches Luxury Stainless Steel Luminous Waterproof Calendar Mens Watch Silver Black",
+            "brand": "OLEVS",
+            "original_price": 988,
+            "current_price": 108,
+            "discount_percentage": 89,
+            "deal_url": "https://thefashiondeals.com/deal/olevs-automatic-watch-for-men-mechanical-self-winding-watches-luxury-stainless-s-b0gst6sf52?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:45"
+        },
+        {
+            "asin": "B08N6R6CK6",
+            "title": "3301 Straight Tapered Fit Jeans, Faded Bullit, 35W x 36L",
+            "brand": "G-STAR",
+            "original_price": 180,
+            "current_price": 21.45,
+            "discount_percentage": 88,
+            "deal_url": "https://thefashiondeals.com/deal/3301-straight-tapered-fit-jeans-faded-bullit-35w-x-36l-b08n6r6ck6?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 01:58:47"
+        },
+        {
+            "asin": "B0DF85ZMLN",
+            "title": "Trimshaper Womens Double Tier Ronnie Swim Tankini Top with Fully Lined Back and Bra Support, Serapikat, 18",
+            "brand": "Trimshaper",
+            "original_price": 60,
+            "current_price": 7.41,
+            "discount_percentage": 88,
+            "deal_url": "https://thefashiondeals.com/deal/trimshaper-womens-double-tier-ronnie-swim-tankini-top-with-fully-lined-back-and-bra-support-serapikat-18-b0df85zmln?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:45"
+        },
+        {
+            "asin": "B0DSJB3DY6",
+            "title": "OLEVS Watch Men Luxury Silver Stainless Steel Dress Wrist Analog Quartz Waterproof Watches for Men Fashion Luminous Nice Large Face Minimalist Mens Watches Relojes para Hombres",
+            "brand": "OLEVS",
+            "original_price": 368,
+            "current_price": 43.77,
+            "discount_percentage": 88,
+            "deal_url": "https://thefashiondeals.com/deal/olevs-watch-men-luxury-silver-stainless-steel-dress-wrist-analog-quartz-waterpro-b0dsjb3dy6?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:45"
+        },
+        {
+            "asin": "B0BK11BV64",
+            "title": "OLEVS Men's Diamond Business Dress Watch – Stainless Steel Waterproof Two‑Tone Analog Quartz with Luminous Date – Blue Luxury Casual Wristwatch",
+            "brand": "OLEVS",
+            "original_price": 368,
+            "current_price": 43.77,
+            "discount_percentage": 88,
+            "deal_url": "https://thefashiondeals.com/deal/olevs-watch-for-men-diamond-business-dress-analog-quartz-stainless-steel-waterproof-luminous-date-two-tone-luxury-casual-b0bk11bv64?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:45"
+        },
+        {
+            "asin": "B0FSHYHMYL",
+            "title": "Everlane The Way-High Hourglass Jean (27 1/2\" Inseam) - Vintage Indigo 23",
+            "brand": "Everlane",
+            "original_price": 128,
+            "current_price": 17.01,
+            "discount_percentage": 87,
+            "deal_url": "https://thefashiondeals.com/deal/everlane-the-way-high-hourglass-jean-27-12-inseam-vintage-indigo-23-b0fshyhmyl?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:26:40"
+        },
+        {
+            "asin": "B0FBT8PQG3",
+            "title": "Columbia Men's Collegiate Backcast III Printed Short",
+            "brand": "Columbia",
+            "original_price": 60,
+            "current_price": 7.8,
+            "discount_percentage": 87,
+            "deal_url": "https://thefashiondeals.com/deal/columbia-mens-collegiate-backcast-iii-printed-short-b0fbt8pqg3?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:49"
+        },
+        {
+            "asin": "B0CQ9VHBH6",
+            "title": "Dickies Men's Skinny Straight Double Knee Work Pants - Durable, Slim Fit, Industrial Uniform & Workwear,English Red, 30W x 32L",
+            "brand": "Dickies",
+            "original_price": 34.99,
+            "current_price": 4.53,
+            "discount_percentage": 87,
+            "deal_url": "https://thefashiondeals.com/deal/dickies-mens-skinny-straight-double-knee-work-pants-durable-slim-fit-industrial-uniform-workwearenglish-red-30w-b0cq9vhbh6?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:48"
+        },
+        {
+            "asin": "B07PV2TKMY",
+            "title": "OLEVS Gold Watches for Women Luxury Dress Analog Lady Watch for Ladies Stainless Steel Waterproof Luminous Elegant Female Wrist Watch",
+            "brand": "OLEVS",
+            "original_price": 256,
+            "current_price": 33.77,
+            "discount_percentage": 87,
+            "deal_url": "https://thefashiondeals.com/deal/olevs-gold-watches-for-women-luxury-dress-analog-lady-watch-for-ladies-stainless-steel-waterproof-luminous-elegant-femal-b07pv2tkmy?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:45"
+        },
+        {
+            "asin": "B0FLF7BQJ3",
+            "title": "La Blanca Women's Island Goddess Plunge One Piece Swimsuit, Calypso, 14",
+            "brand": "La Blanca",
+            "original_price": 135,
+            "current_price": 19.32,
+            "discount_percentage": 86,
+            "deal_url": "https://thefashiondeals.com/deal/la-blanca-womens-island-goddess-plunge-one-piece-swimsuit-calypso-14-b0flf7bqj3?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:24:58"
+        },
+        {
+            "asin": "B0F76XQQ8X",
+            "title": "Dockers® Men's Signature Shirt Long Sleeve Classic Fit with Stain Defender®, Black, Small",
+            "brand": "DOCKERS",
+            "original_price": 60,
+            "current_price": 8.37,
+            "discount_percentage": 86,
+            "deal_url": "https://thefashiondeals.com/deal/dockers-mens-signature-shirt-long-sleeve-classic-fit-with-stain-defender-black-small-b0f76xqq8x?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:04:00"
+        },
+        {
+            "asin": "B07Z8ZCTXG",
+            "title": "OLEVS Watch Men Gold Watches for Men Luxury Big Face Metal Dress Watches",
+            "brand": "OLEVS",
+            "original_price": 298.77,
+            "current_price": 42.77,
+            "discount_percentage": 86,
+            "deal_url": "https://thefashiondeals.com/deal/olevs-watch-men-gold-watches-for-men-luxury-big-face-metal-dress-watches-b07z8zctxg?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:49"
+        },
+        {
+            "asin": "B0F8TY1PZK",
+            "title": "OLEVS Black Watches for Men Luxury Tonneau Square Skeleton Dress Mens Watch",
+            "brand": "OLEVS",
+            "original_price": 368,
+            "current_price": 49.77,
+            "discount_percentage": 86,
+            "deal_url": "https://thefashiondeals.com/deal/olevs-black-watches-for-men-luxury-tonneau-square-skeleton-dress-mens-watch-b0f8ty1pzk?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:48"
+        },
+        {
+            "asin": "B0D7C5SNB6",
+            "title": "OLEVS Blue Men's Analog Dress Watch – Luxury Black Face Gift for Men",
+            "brand": "OLEVS",
+            "original_price": 298.77,
+            "current_price": 42.77,
+            "discount_percentage": 86,
+            "deal_url": "https://thefashiondeals.com/deal/olevs-blue-mens-watches-black-analog-dress-gift-nice-luxury-watches-for-men-b0d7c5snb6?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:49"
+        },
+        {
+            "asin": "B0D7C6CRNC",
+            "title": "OLEVS Men's Black Analog Casual Luxury Watch – Big Face, Classic Style",
+            "brand": "OLEVS",
+            "original_price": 298.77,
+            "current_price": 42.77,
+            "discount_percentage": 86,
+            "deal_url": "https://thefashiondeals.com/deal/olevs-watch-men-black-watches-for-men-analog-casual-big-luxury-mens-watches-b0d7c6crnc?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:48"
+        },
+        {
+            "asin": "B0FN68V3YJ",
+            "title": "Gaiam Men’s Power Long Sleeve Crewneck Top, Standard Fit, Stretch Heavyweight Fleece Material, Biking Red Heather, Large",
+            "brand": "Gaiam",
+            "original_price": 32.5,
+            "current_price": 4.82,
+            "discount_percentage": 85,
+            "deal_url": "https://thefashiondeals.com/deal/gaiam-mens-power-long-sleeve-crewneck-top-standard-fit-stretch-heavyweight-fleece-material-biking-red-heather-large-b0fn68v3yj?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:25:04"
+        },
+        {
+            "asin": "B0FHJJ73GR",
+            "title": "Gentle Souls Atlas Flat Burgundy Suede",
+            "brand": "Gentle Souls by Kenneth Cole",
+            "original_price": 159,
+            "current_price": 24.24,
+            "discount_percentage": 85,
+            "deal_url": "https://thefashiondeals.com/deal/gentle-souls-atlas-flat-burgundy-suede-b0fhjj73gr?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:08:09"
+        },
+        {
+            "asin": "B0FH7PRKL9",
+            "title": "Beach Riot Women's Soleil Bikini Bottoms, Guava Jelly Crochet, S",
+            "brand": "Beach Riot",
+            "original_price": 98,
+            "current_price": 14.7,
+            "discount_percentage": 85,
+            "deal_url": "https://thefashiondeals.com/deal/beach-riot-womens-soleil-bikini-bottoms-guava-jelly-crochet-s-b0fh7prkl9?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:08:08"
+        },
+        {
+            "asin": "B0BXBRMYW8",
+            "title": "Gerber Baby and Toddler Girls Swim Cover Up, Navy, 12 Months",
+            "brand": "Gerber",
+            "original_price": 24.99,
+            "current_price": 3.78,
+            "discount_percentage": 85,
+            "deal_url": "https://thefashiondeals.com/deal/gerber-baby-and-toddler-girls-swim-cover-up-navy-12-months-b0bxbrmyw8?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:49"
+        },
+        {
+            "asin": "B0DQXS9JF7",
+            "title": "OLEVS Watch Men Gold Watches for Men Classic Mens Luxury Watches Waterproof",
+            "brand": "OLEVS",
+            "original_price": 298.77,
+            "current_price": 43.77,
+            "discount_percentage": 85,
+            "deal_url": "https://thefashiondeals.com/deal/olevs-watch-men-gold-watches-for-men-classic-mens-luxury-watches-waterproof-b0dqxs9jf7?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:21"
+        },
+        {
+            "asin": "B07X7MC5LQ",
+            "title": "BENYAR Men's Waterproof Chronograph Luminous Date Watch with Stainless Steel Bracelet – Classic Large Dial Analogue Quartz – Ideal Gift in Brown, Black or Blue",
+            "brand": "BENYAR",
+            "original_price": 298.99,
+            "current_price": 43.98,
+            "discount_percentage": 85,
+            "deal_url": "https://thefashiondeals.com/deal/by-benyar-mens-chronograph-waterproof-luminous-date-watches-stainless-steel-bracelet-large-dial-classic-business-fashio-b07x7mc5lq?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:49"
+        },
+        {
+            "asin": "B07VDF1Q38",
+            "title": "OLEVL Men's Black Luxury Analog Watch – Silver Dial, Waterproof, Elegant Timepiece",
+            "brand": "OLEVS",
+            "original_price": 298.77,
+            "current_price": 43.77,
+            "discount_percentage": 85,
+            "deal_url": "https://thefashiondeals.com/deal/olevs-watch-men-black-watches-for-men-silver-luxury-analog-waterproof-b07vdf1q38?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:49"
+        },
+        {
+            "asin": "B0FWGPPTTN",
+            "title": "Petal & Pup Farica Gingham Midi Skirt - Cream XL",
+            "brand": "Petal & Pup",
+            "original_price": 79,
+            "current_price": 12.43,
+            "discount_percentage": 84,
+            "deal_url": "https://thefashiondeals.com/deal/petal-pup-farica-gingham-midi-skirt-cream-xl-b0fwgppttn?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:26:45"
+        },
+        {
+            "asin": "B0FQ72HFV2",
+            "title": "The Children's Place,Girls,Dressy Dress, Short SleeveVanilla Wafer,12",
+            "brand": "The Children's Place",
+            "original_price": 54.95,
+            "current_price": 8.99,
+            "discount_percentage": 84,
+            "deal_url": "https://thefashiondeals.com/deal/the-childrens-placegirlsdressy-dress-short-sleevevanilla-wafer12-b0fq72hfv2?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:25:10"
+        },
+        {
+            "asin": "B0BMMB5M8F",
+            "title": "Steve Madden Apparel Sophia-Rose Dress, Black,6",
+            "brand": "Steve Madden",
+            "original_price": 89,
+            "current_price": 14.14,
+            "discount_percentage": 84,
+            "deal_url": "https://thefashiondeals.com/deal/steve-madden-apparel-sophia-rose-dress-black6-b0bmmb5m8f?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:00:40"
+        },
+        {
+            "asin": "B0G1TYLXMP",
+            "title": "SOLY HUX Women's Off the Shoulder Sweater Dress Long Sleeve Knit Loose Mini Dresses Pure Light Yellow X-Small",
+            "brand": "SOLY HUX",
+            "original_price": 49.99,
+            "current_price": 7.99,
+            "discount_percentage": 84,
+            "deal_url": "https://thefashiondeals.com/deal/soly-hux-womens-off-the-shoulder-sweater-dress-long-sleeve-knit-loose-mini-dresses-pure-light-yellow-x-small-b0g1tylxmp?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:49"
+        },
+        {
+            "asin": "B0GMDQ28M4",
+            "title": "Oakley Mens Soho Gen Hoodie, Pebble, X-Large",
+            "brand": "Oakley",
+            "original_price": 135,
+            "current_price": 23.37,
+            "discount_percentage": 83,
+            "deal_url": "https://thefashiondeals.com/deal/oakley-mens-soho-gen-hoodie-pebble-x-large-b0gmdq28m4?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:30:57"
+        },
+        {
+            "asin": "B0FKLS2DHY",
+            "title": "OUTDOOR VOICES Lightspeed 3\" Short",
+            "brand": "Outdoor Voices",
+            "original_price": 68,
+            "current_price": 11.72,
+            "discount_percentage": 83,
+            "deal_url": "https://thefashiondeals.com/deal/outdoor-voices-lightspeed-3-short-b0fkls2dhy?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:24:56"
+        },
+        {
+            "asin": "B0F5W6DMSN",
+            "title": "Eastside Golf Men’s Core Fleece Swingman Logo Hoodie, Cotton-Blend Pullover with Embroidered Logo and Classic-Fit Layer",
+            "brand": "Eastside Golf",
+            "original_price": 145,
+            "current_price": 24.85,
+            "discount_percentage": 83,
+            "deal_url": "https://thefashiondeals.com/deal/eastside-golf-mens-core-fleece-swingman-logo-hoodie-cotton-blend-pullover-with-embroidered-logo-and-classic-fit-layer-b0f5w6dmsn?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:03:59"
+        },
+        {
+            "asin": "B0DK4F2KX4",
+            "title": "Columbia Mens Pitchstone Outdoor Pant, Ancient Fossil, 54 x 34",
+            "brand": "Columbia",
+            "original_price": 70,
+            "current_price": 11.66,
+            "discount_percentage": 83,
+            "deal_url": "https://thefashiondeals.com/deal/columbia-mens-pitchstone-outdoor-pant-ancient-fossil-54-x-34-b0dk4f2kx4?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:03:47"
+        },
+        {
+            "asin": "B0CR1SBRNT",
+            "title": "Sports Illustrated Women's Scoop Hipster, Storm, Medium",
+            "brand": "Sports Illustrated",
+            "original_price": 30,
+            "current_price": 5.13,
+            "discount_percentage": 83,
+            "deal_url": "https://thefashiondeals.com/deal/sports-illustrated-womens-scoop-hipster-storm-medium-b0cr1sbrnt?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:02:08"
+        },
+        {
+            "asin": "B01DZWYV8Q",
+            "title": "Leg Avenue unisex adult Sized Costumes, Black, Medium-Large US",
+            "brand": "Leg Avenue",
+            "original_price": 42.99,
+            "current_price": 7.38,
+            "discount_percentage": 83,
+            "deal_url": "https://thefashiondeals.com/deal/leg-avenue-unisex-adult-sized-costumes-black-medium-large-us-b01dzwyv8q?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 01:58:39"
+        },
+        {
+            "asin": "B0GJG1PVCG",
+            "title": "Kanu Surf Solid Banded One Piece",
+            "brand": "Kanu Surf",
+            "original_price": 25.99,
+            "current_price": 4.74,
+            "discount_percentage": 82,
+            "deal_url": "https://thefashiondeals.com/deal/kanu-surf-solid-banded-one-piece-b0gjg1pvcg?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:30:54"
+        },
+        {
+            "asin": "B0DGZ3HSPY",
+            "title": "kate spade new york Rosette Solids Bandeau Bra Top, Cream, Large",
+            "brand": "kate spade new york",
+            "original_price": 130,
+            "current_price": 23.08,
+            "discount_percentage": 82,
+            "deal_url": "https://thefashiondeals.com/deal/kate-spade-new-york-rosette-solids-bandeau-bra-top-cream-large-b0dgz3hspy?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:52"
+        },
+        {
+            "asin": "B0CP4CSHL2",
+            "title": "Carve Designs Woman's Tatum Gauze Top",
+            "brand": "Carve Designs",
+            "original_price": 72,
+            "current_price": 12.65,
+            "discount_percentage": 82,
+            "deal_url": "https://thefashiondeals.com/deal/carve-designs-womans-tatum-gauze-top-b0cp4cshl2?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 03:56:32"
+        },
+        {
+            "asin": "B08DBSSRC2",
+            "title": "The Children’s Place Boys French Terry Casual Shorts 3‑Pack – Small US, Black, Smoke Gray, New Navy",
+            "brand": "The Children's Place",
+            "original_price": 50.95,
+            "current_price": 9.32,
+            "discount_percentage": 82,
+            "deal_url": "https://thefashiondeals.com/deal/the-childrens-place-boys-french-terry-casual-shorts-blacksmoke-graynew-navy-3-pack-small-us-b08dbssrc2?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:52"
+        },
+        {
+            "asin": "B0DSGN94P5",
+            "title": "Vince Women's Marcela Sandals, Gold, 8 Medium US",
+            "brand": "Vince",
+            "original_price": 350,
+            "current_price": 66.73,
+            "discount_percentage": 81,
+            "deal_url": "https://thefashiondeals.com/deal/vince-womens-marcela-sandals-gold-8-medium-us-b0dsgn94p5?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:52"
+        },
+        {
+            "asin": "B0FCLP4493",
+            "title": "OLEVS Wood Luxury Dress Chronograph Watch for Men – 42mm Large Dial, Stainless Steel, Waterproof, Vintage Style Gift",
+            "brand": "OLEVS",
+            "original_price": 338,
+            "current_price": 62.66,
+            "discount_percentage": 81,
+            "deal_url": "https://thefashiondeals.com/deal/olevs-watches-for-men-wood-luxury-dress-chronograph-wirst-watches-42mm-large-dial-stainless-steel-waterproof-analog-quar-b0fclp4493?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:41"
+        },
+        {
+            "asin": "B0GSR9T48H",
+            "title": "Langyiwee 3 Pack Girls Linen Shorts 5-14 Years, 3-Color Set, 13-14 Years",
+            "brand": "Langyiwee",
+            "original_price": 36.99,
+            "current_price": 7.29,
+            "discount_percentage": 80,
+            "deal_url": "https://thefashiondeals.com/deal/langyiwee-3-pack-girls-linen-shorts-5-14-years-3-color-set-13-14-years-b0gsr9t48h?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:31:00"
+        },
+        {
+            "asin": "B0FNNHD8KH",
+            "title": "HEAD Men’s Zephyr Mesh Tank Top, Standard Fit, Lightweight and Breathable Mesh Material, Tomato, Small",
+            "brand": "HEAD",
+            "original_price": 29.69,
+            "current_price": 6.08,
+            "discount_percentage": 80,
+            "deal_url": "https://thefashiondeals.com/deal/head-mens-zephyr-mesh-tank-top-standard-fit-lightweight-and-breathable-mesh-material-tomato-small-b0fnnhd8kh?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:25:06"
+        },
+        {
+            "asin": "B0FLLHC8VN",
+            "title": "Maxine of Hollywood Women's Shirred Bandeau Swim Dress One Piece Swimsuit, White, 16",
+            "brand": "Maxine of Hollywood",
+            "original_price": 92,
+            "current_price": 18.19,
+            "discount_percentage": 80,
+            "deal_url": "https://thefashiondeals.com/deal/maxine-of-hollywood-womens-shirred-bandeau-swim-dress-one-piece-swimsuit-white-16-b0fllhc8vn?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:24:59"
+        },
+        {
+            "asin": "B0F2BFS3DS",
+            "title": "GUESS Mens Eco Fletcher Linen Drawcord Short, Quicksand Multi, 31",
+            "brand": "GUESS",
+            "original_price": 89,
+            "current_price": 17.8,
+            "discount_percentage": 80,
+            "deal_url": "https://thefashiondeals.com/deal/guess-mens-eco-fletcher-linen-drawcord-short-quicksand-multi-31-b0f2bfs3ds?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:03:54"
+        },
+        {
+            "asin": "B08H4JLMR4",
+            "title": "Cutter & Buck Men's Polo, Bordeaux, XXXL",
+            "brand": "Cutter & Buck",
+            "original_price": 45,
+            "current_price": 8.87,
+            "discount_percentage": 80,
+            "deal_url": "https://thefashiondeals.com/deal/cutter-buck-mens-polo-bordeaux-xxxl-b08h4jlmr4?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 01:58:46"
+        },
+        {
+            "asin": "B087T6BDZV",
+            "title": "Kasper Women's Stretch Slim-Leg Pant",
+            "brand": "Kasper",
+            "original_price": 79,
+            "current_price": 15.51,
+            "discount_percentage": 80,
+            "deal_url": "https://thefashiondeals.com/deal/kasper-womens-stretch-slim-leg-pant-b087t6bdzv?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 01:58:45"
+        },
+        {
+            "asin": "B0DPJBD9XP",
+            "title": "Lucky Brand Women's Pebina Cross Band Wedge Sandals, Black, 9 Medium",
+            "brand": "Lucky Brand",
+            "original_price": 99,
+            "current_price": 19.39,
+            "discount_percentage": 80,
+            "deal_url": "https://thefashiondeals.com/deal/lucky-brand-womens-pebina-cross-band-wedge-sandals-black-9-medium-b0dpjbd9xp?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:53"
+        },
+        {
+            "asin": "B0FLF8NGXZ",
+            "title": "La Blanca Women's Island Goddess Asymmetrical Skirted Swimsuit Bottom, Lapis, 16",
+            "brand": "La Blanca",
+            "original_price": 89,
+            "current_price": 17.78,
+            "discount_percentage": 80,
+            "deal_url": "https://thefashiondeals.com/deal/la-blanca-womens-island-goddess-asymmetrical-skirted-swimsuit-bottom-lapis-16-b0flf8ngxz?utm_source=weekly_index",
+            "last_verified_at": "2026-09-20 21:00:53"
+        },
+        {
+            "asin": "B0GS9Q4F5X",
+            "title": "MakeMeChic Women's Plus Size Floral Lace Tank Top Sleeveless Crew Neck Crop Boho Vacation Tops White XX-Large Plus",
+            "brand": "MakeMeChic",
+            "original_price": 28.99,
+            "current_price": 5.99,
+            "discount_percentage": 79,
+            "deal_url": "https://thefashiondeals.com/deal/makemechic-womens-plus-size-floral-lace-tank-top-sleeveless-crew-neck-crop-boho-vacation-tops-white-xx-large-plus-b0gs9q4f5x?utm_source=weekly_index",
+            "last_verified_at": "2026-09-21 02:30:59"
+        }
+    ]
+}
