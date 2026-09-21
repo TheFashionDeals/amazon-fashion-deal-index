@@ -3,26 +3,26 @@
 [![Open Data](https://img.shields.io/badge/Data-Open%20Dataset-brightgreen)](https://thefashiondeals.com/reports)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Update Frequency](https://img.shields.io/badge/Updates-Weekly%20(Automated)-blue)](https://thefashiondeals.com)
-[![Verified Deals](https://img.shields.io/badge/Active%20Deals-13292-orange)](https://thefashiondeals.com)
+[![Verified Deals](https://img.shields.io/badge/Active%20Deals-12473-orange)](https://thefashiondeals.com)
 [![MCP Ready](https://img.shields.io/badge/MCP-Compatible-purple)](https://thefashiondeals.com/api/social/mcp)
 
 Weekly, machine-audited datasets of verified Amazon US fashion price drops, liquidation clearance discounts, and category statistical benchmarks. Published automatically every Monday by **[TheFashionDeals.com](https://thefashiondeals.com)**.
 
 ---
 
-## 📈 Latest Intelligence Snapshot (2026-W38)
+## 📈 Latest Intelligence Snapshot (2026-W39)
 
-> **Audit Period:** Sep 14, 2026 — Sep 20, 2026  
-> **Full Interactive Report:** [https://thefashiondeals.com/reports/weekly-deal-index-2026-W38](https://thefashiondeals.com/reports/weekly-deal-index-2026-W38)  
-> **Pure Markdown View:** [https://thefashiondeals.com/reports/weekly-deal-index-2026-W38.md](https://thefashiondeals.com/reports/weekly-deal-index-2026-W38.md)
+> **Audit Period:** Sep 21, 2026 — Sep 27, 2026  
+> **Full Interactive Report:** [https://thefashiondeals.com/reports/weekly-deal-index-2026-W39](https://thefashiondeals.com/reports/weekly-deal-index-2026-W39)  
+> **Pure Markdown View:** [https://thefashiondeals.com/reports/weekly-deal-index-2026-W39.md](https://thefashiondeals.com/reports/weekly-deal-index-2026-W39.md)
 
 | Metric | Verified Value |
 | :--- | :--- |
-| **Active Monitored Deals** | **13292** |
-| **Market Average Discount** | **30.6%** |
-| **Deep Clearance (70%+ Off)** | **102 Deals** |
-| **Average Sale Price** | **$39.64** (vs $59.07 Retail Baseline) |
-| **Total Monitored Savings Pool** | **$255537.60** |
+| **Active Monitored Deals** | **12473** |
+| **Market Average Discount** | **31.4%** |
+| **Deep Clearance (70%+ Off)** | **203 Deals** |
+| **Average Sale Price** | **$38.32** (vs $57.37 Retail Baseline) |
+| **Total Monitored Savings Pool** | **$230228.35** |
 
 ---
 
